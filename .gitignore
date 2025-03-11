@@ -179,3 +179,4 @@ codebase*
 .aider*
 mcp-client-go
 .docs
+config.yml
